@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d12"/><stop offset="1" stop-color="#151a2b"/></linearGradient>
+    <linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#7c9cff"/><stop offset="1" stop-color="#c58bff"/></linearGradient>
+    <radialGradient id="g1" cx="0.1" cy="0"><stop offset="0" stop-color="#7c9cff" stop-opacity="0.45"/><stop offset="1" stop-color="#7c9cff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.95" cy="1"><stop offset="0" stop-color="#c58bff" stop-opacity="0.4"/><stop offset="1" stop-color="#c58bff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#g1)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#g2)"/>
+  <text x="60" y="110" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" fill="#8b93a7">West Vancouver, BC</text>
+  <text x="60" y="175" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" fill="url(#tx)">Marcus Fan</text>
+  <text x="60" y="218" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="26" fill="#e8ebf3">I build things to help people.</text>
+</svg>
