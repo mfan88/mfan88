@@ -12,11 +12,16 @@ I'm a software engineering and business student exploring how new technology can
 
 ## What I've been building
 
-| | |
-|---|---|
-| **[GMA Upload Portal](https://github.com/mfan88/GMAPORTAL)** | A secure portal that takes a family's assessment video from one private link to the clinic's files and spreadsheet, built with the Developmental Disabilities Association. |
-| **NavigateMyDay** | An iOS app that turns calendar events into directions, with an Assisted Care mode for people who need help getting around. |
-| **Veloce** | Salesforce CPQ enhancements: faster bulk editing, bug fixes and clearer error messages. |
+<table>
+  <tr>
+    <td><b><a href="https://github.com/mfan88/GMAPORTAL">GMA Upload Portal</a></b></td>
+    <td>A secure portal that takes a family's assessment video from one private link to the clinic's files and spreadsheet, built with the Developmental Disabilities Association.</td>
+  </tr>
+  <tr>
+    <td><b>NavigateMyDay</b></td>
+    <td>An iOS app that turns calendar events into directions, with an Assisted Care mode for people who need help getting around.</td>
+  </tr>
+</table>
 
 Interactive demos of each are on the **[portfolio](https://mfan88.github.io)**.
 
